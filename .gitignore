@@ -1,0 +1,4 @@
+.ipynb_checkpoints/*.ipynb
+data/images/*.JPG
+data/*.csv
+predictions/*.csv
